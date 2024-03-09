@@ -1,8 +1,5 @@
 # Bone up on undergrad CS algorithms and data structures
 
-Geoffrey Atkinson
-geoffrey.j.atkinson@gmail.com
-
 An assortment of algorthms and data structures implemented from text books and Algomoster, probably Leetcode and Project Euler as well.
 
 Just a parking spot for code.
