@@ -34,3 +34,5 @@
 .DS_Store
 
 cmd/binarytree/binarytree
+
+settings.json
