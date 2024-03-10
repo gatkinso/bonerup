@@ -1,5 +1,3 @@
+add_subdirectory(binary_search)
 add_subdirectory(graph)
-add_subdirectory(firsttrue)
-add_subdirectory(firstnotsmaller)
-add_subdirectory(firstoccurance)
-add_subdirectory(squareroot)
+
