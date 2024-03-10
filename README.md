@@ -8,6 +8,21 @@ The code found here is written on MacOS, but for the most part there is no reaso
 
 ## Projects
 
+### Binary Searches
+A set of C++ searches from Algomonster;
+
+Language: C++
+Location: c+_/binary_search
+* findpeak
+* findnotsmaller
+* firstoccurance
+* firsttrue
+* squareroot
+
+Build:
+* cd <parent of repository>
+* cmake -S bonerup -B build_bonerup
+
 ### Binary Tree
 A self balancing binary tree.
 
